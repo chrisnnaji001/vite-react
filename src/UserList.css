@@ -1,0 +1,33 @@
+/* src/UserList.css */
+.user-list-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+  }
+  
+  .user-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-item {
+    background-color: #f4f4f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 400px;
+  }
+  
+  .user-item h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .user-item p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
